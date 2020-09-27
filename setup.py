@@ -7,7 +7,7 @@ with open('README.md', 'r') as fh:
 setuptools.setup(
     name='hellpy',
     license='MIT',
-    version='1.0.1',
+    version='1.1.0',
     python_requires=">=3.6",
     author='Manan (mentix02)',
     long_description=long_description,
